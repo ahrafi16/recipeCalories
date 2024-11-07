@@ -1,0 +1,97 @@
+[
+    {
+        "recipe_image": "https://www.eatingonadime.com/wp-content/uploads/2024/06/chicken-stir-fry-6-2-1.jpg",
+        "recipe_id": "1",
+        "recipe_name": "Chicken Stir Fry",
+        "short_description": "A quick and flavorful chicken stir fry with fresh vegetables.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaf",
+            "400 g mushrooms",
+            "2 tablespoons olive oil",
+            "1 bell pepper"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_image": "https://umamiology.com/wp-content/uploads/2024/04/Umamiology-Spaghetti-Bolognese-RecipeCard16.jpg",
+        "recipe_id": "2",
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "A classic Italian pasta dish with a rich meat sauce.",
+        "ingredients": [
+            "400 g spaghetti",
+            "250 g minced beef",
+            "1 onion",
+            "2 garlic cloves",
+            "400 g canned tomatoes",
+            "50 g grated Parmesan"
+        ],
+        "preparing_time": "45 min",
+        "calories": "480 calories"
+    },
+    {
+        "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92SMe3SyZLRZw8WSMZfEuMUlhjJ1ZGbeCDA&s",
+        "recipe_id": "3",
+        "recipe_name": "Vegan Tacos",
+        "short_description": "Delicious and healthy tacos filled with spiced vegetables.",
+        "ingredients": [
+            "6 corn tortillas",
+            "200 g black beans",
+            "1 avocado",
+            "1 tomato",
+            "1 tablespoon lime juice",
+            "Cilantro to taste"
+        ],
+        "preparing_time": "20 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_image": "https://www.italianbellavita.com/wp-content/uploads/2022/08/739C7136-CBA2-4DDC-8D56-ECA409F69AB9-3-720x720.jpeg",
+        "recipe_id": "4",
+        "recipe_name": "Greek Salad",
+        "short_description": "A refreshing salad with feta cheese and olives.",
+        "ingredients": [
+            "200 g cucumbers",
+            "150 g tomatoes",
+            "100 g feta cheese",
+            "50 g olives",
+            "2 tablespoons olive oil",
+            "1 teaspoon oregano"
+        ],
+        "preparing_time": "15 min",
+        "calories": "180 calories"
+    },
+    {
+        "recipe_image": "https://scientificallysweet.com/wp-content/uploads/2020/09/IMG_4117-feature.jpg",
+        "recipe_id": "5",
+        "recipe_name": "Chocolate Cake",
+        "short_description": "A rich and moist chocolate cake perfect for any occasion.",
+        "ingredients": [
+            "200 g dark chocolate",
+            "150 g sugar",
+            "150 g butter",
+            "4 eggs",
+            "100 g flour",
+            "1 teaspoon baking powder"
+        ],
+        "preparing_time": "60 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_image": "https://www.acouplecooks.com/wp-content/uploads/2020/11/Chia-Seed-Smoothie-004.jpg",
+        "recipe_id": "6",
+        "recipe_name": "Fruit Smoothie",
+        "short_description": "A refreshing smoothie packed with vitamins and flavor.",
+        "ingredients": [
+            "1 banana",
+            "150 g strawberries",
+            "200 ml almond milk",
+            "1 tablespoon honey",
+            "Ice cubes to taste"
+        ],
+        "preparing_time": "10 min",
+        "calories": "150 calories"
+    }
+]
